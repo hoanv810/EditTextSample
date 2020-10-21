@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Widget.EditTextSample.TextField" parent="@style/Widget.AppCompat.EditText">
+        <item name="colorControlActivated">#F1D206</item>
+        <item name="colorControlHighlight">#0A2DE3</item>
+        <item name="colorControlNormal">#EC0E4D</item>
+        <item name="editTextBackground">@drawable/background_edit_text</item>
+        <item name="android:editTextBackground">@drawable/background_edit_text</item>
+    </style>
+
+</resources>
